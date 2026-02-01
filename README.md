@@ -5,7 +5,7 @@
                    -`                     ╔═════════════════════════════
                   .o+`                    ║         root@obvwolf
                  `ooo/                    ║-----------------------------
-                `+oooo:                   ║ OS: he/him
+                `+oooo:                   ║ OS: she/her
                `+oooooo:                  ║ Host: homosapian_caucasian 
                -+oooooo+:                 ║ Kernel: aroase_audhd
              `/:-:++oooo+:                ║ Uptime: 18y
