@@ -3,7 +3,7 @@
 ---
  ```
                    -`                     ╔═════════════════════════════
-                  .o+`                    ║         root@obvwolf
+                  .o+`                    ║       root@evercoral
                  `ooo/                    ║-----------------------------
                 `+oooo:                   ║ OS: she/her
                `+oooooo:                  ║ Host: homosapian_caucasian 
